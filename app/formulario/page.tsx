@@ -1,3 +1,5 @@
+'use client'
+
 import RDStationForm from "@/components/rd-station/forms";
 import Link from "next/link";
 
