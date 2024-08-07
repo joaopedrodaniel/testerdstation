@@ -1,3 +1,4 @@
+import RDStationForm from "@/components/rd-station/forms";
 import Link from "next/link";
 
 export default function Formulario() {
@@ -7,6 +8,7 @@ export default function Formulario() {
         <Link href={"/"}>
           <button className="bg-red-400" >Voltar pra página principal</button>
         </Link>
+        <RDStationForm />
       </div>
     );
   }
