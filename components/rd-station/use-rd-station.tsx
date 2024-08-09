@@ -1,3 +1,5 @@
+'use client'
+
 // hooks/useRDStation.js
 import { useEffect } from 'react';
 
