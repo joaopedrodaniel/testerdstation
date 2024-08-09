@@ -1,3 +1,5 @@
+'use client'
+
 import { useRDStation } from "@/components/rd-station/use-rd-station";
 import Image from "next/image";
 import Link from "next/link";
