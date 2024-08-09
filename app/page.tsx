@@ -14,6 +14,12 @@ export default function Home() {
       <Link href={"/formulario"}>
         <button className="bg-red-400" >Ir para página do formulário</button>
       </Link>
+      <Link href={"/segunda-pagina"}>
+        <button className="bg-red-400" >Ir para segunda página de teste - vazia</button>
+      </Link>
+      <Link href={"/terceira-pagina"}>
+        <button className="bg-red-400" >Ir para segunda página de teste - vazia</button>
+      </Link>
     </div>
   );
 }
